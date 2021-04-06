@@ -1,7 +1,5 @@
 package com.erdossoftwsre.kinesis.readservice.util;
 
-import com.amazonaws.services.kinesis.model.DescribeStreamRequest;
-import com.amazonaws.services.kinesis.model.Record;
 import software.amazon.awssdk.core.SdkBytes;
 import software.amazon.awssdk.regions.Region;
 import software.amazon.awssdk.services.kinesis.model.*;
